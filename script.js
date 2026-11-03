@@ -1,0 +1,1 @@
+console.log("El script JavaScript se ha ejecutado correctamente desde GitHub Pages.");
